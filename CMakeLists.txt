@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.0)
+project( calculate )
+find_package( OpenCV )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( calculate calculate.cpp )
+target_link_libraries( calculate ${OpenCV_LIBS} )

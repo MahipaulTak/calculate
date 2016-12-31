@@ -1,0 +1,3 @@
+/Users/mahipaultak/GitHub/calculate/CMakeFiles/edit_cache.dir
+/Users/mahipaultak/GitHub/calculate/CMakeFiles/rebuild_cache.dir
+/Users/mahipaultak/GitHub/calculate/CMakeFiles/calculate.dir
